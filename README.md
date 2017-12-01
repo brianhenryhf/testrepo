@@ -16,3 +16,11 @@ Nullam dignissim id sem vel sodales. Proin sed posuere augue. Sed facilisis ante
 Ut lobortis dolor et lectus dignissim, fermentum auctor risus feugiat. Etiam consequat sagittis dolor a malesuada. Suspendisse pellentesque metus lorem, quis cursus urna aliquet in. Nam imperdiet porttitor mauris, ac vulputate dolor. Nam sagittis tortor sit amet lacus porttitor, et venenatis nisl aliquet. Duis non posuere purus, ut consectetur sem. Praesent quis sollicitudin est. Sed gravida, lacus eu finibus eleifend, metus justo bibendum ex, vitae blandit risus risus id leo. Donec at enim sed quam maximus luctus at a nisi. Praesent in lacus urna. Praesent porttitor dolor at arcu tempor, elementum tempus tortor viverra. Morbi tristique consectetur lacinia. Quisque suscipit posuere nulla gravida vehicula.
 
 # H1orama
+Here is some JSON.  One scop, as two scoops is crazy:
+```json
+{
+  "user_agent":"BLERP2", 
+  "proxy":"http://localhost:8086"
+}
+
+```
